@@ -1,5 +1,10 @@
-name: "🤔 Request new features"
-description: Suggest ideas or features you’d like to see implemented in OpenManus.
+name: Solution Immobiliere Quebec
+description: Create a website for my company that buys off-market properties with 6 or more doors and resells them. Include the following:1. A homepage with a company name "OffMarketDoors" and a tagline "We Buy Your 6+ Door Properties Fast."
+2. A section explaining what we do: "We purchase multi-family properties (6+ units) directly from owners, off-market, and resell them to investors."
+3. A lead capture form titled "Sell Your Property" with fields for Name and Phone Number, and a submit button that saves the data to a simple text file or CSV.
+4. Basic styling: clean, professional look with a blue and white color scheme.
+5. Generate the site using HTML, CSS, and basic JavaScript, and provide the files in a downloadable ZIP folder.
+Execute this task autonomously, breaking it into steps: design the layout, write the code, test the form, and package the output.
 labels: enhancement
 body:
   - type: textarea
